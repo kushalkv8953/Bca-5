@@ -1,0 +1,1 @@
+Hello, this is sample content in source.txt for copying.
